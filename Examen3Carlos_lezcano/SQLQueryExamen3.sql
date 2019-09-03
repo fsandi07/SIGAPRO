@@ -64,7 +64,7 @@ as
 
 if @opcion=1 
 begin 
-    declare @Axml3 as xml
+   
      declare @fecha_de_emison datetime
 	 declare @numero_factura varchar(max)
 	 declare @nombre_comercio varchar(max)
@@ -72,52 +72,49 @@ begin
 	declare @Plazo_credito varchar(max)
 	declare @total_IVA varchar(max)
 	declare @total_pagar varchar(max)
-	 
 	
-
-	select @Axml3= Axml from Encuesta
 
 	;WITH XMLNAMESPACES('https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica' as b)
 SELECT 
       @fecha_de_emison=x.u.value('b:FechaEmision[1]', 'varchar(100)')
 from 
-    @Axml3.nodes('/b:FacturaElectronica') x(u)
+    @Axml.nodes('/b:FacturaElectronica') x(u)
 
 	;WITH XMLNAMESPACES('https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica' as b)
 SELECT 
      @numero_factura= x.u.value('b:NumeroConsecutivo[1]', 'varchar(100)')
 from 
-  @Axml3 .nodes('/b:FacturaElectronica') x(u)
+  @Axml .nodes('/b:FacturaElectronica') x(u)
 
   ;WITH XMLNAMESPACES('https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica' as b)
 SELECT 
      @nombre_comercio=x.u.value('b:Nombre[1]', 'varchar(100)') 
 from 
-    @Axml3.nodes('/b:FacturaElectronica/b:Emisor') x(u)
+    @Axml.nodes('/b:FacturaElectronica/b:Emisor') x(u)
 
 	;WITH XMLNAMESPACES('https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica' as b)
 SELECT 
      @cedula_juridica=x.u.value('b:Numero[1]', 'varchar(100)')
 from 
-    @Axml3.nodes('/b:FacturaElectronica/b:Emisor/b:Identificacion') x(u)
+    @Axml.nodes('/b:FacturaElectronica/b:Emisor/b:Identificacion') x(u)
 
 	;WITH XMLNAMESPACES('https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica' as b)
 SELECT 
      @Plazo_credito=x.u.value('b:PlazoCredito[1]', 'varchar(100)')
 from 
-    @Axml3.nodes('/b:FacturaElectronica') x(u)
+    @Axml.nodes('/b:FacturaElectronica') x(u)
 
 	;WITH XMLNAMESPACES('https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica' as b)
 SELECT 
      @total_IVA =x.u.value('b:TotalImpuesto[1]', 'varchar(100)')
 from 
-    @Axml3.nodes('/b:FacturaElectronica/b:ResumenFactura') x(u)
+    @Axml.nodes('/b:FacturaElectronica/b:ResumenFactura') x(u)
 
 	;WITH XMLNAMESPACES('https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica' as b)
 SELECT 
     @total_pagar= x.u.value('b:TotalComprobante[1]', 'varchar(100)')
 from 
-    @Axml3.nodes('/b:FacturaElectronica/b:ResumenFactura') x(u)
+    @Axml.nodes('/b:FacturaElectronica/b:ResumenFactura') x(u)
 
 
 

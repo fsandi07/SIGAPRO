@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><FacturaElectronica xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://cdn.comprobanteselectronicos.go.cr/xml-schemas/v4.3/facturaElectronica">
+  <Clave>50631081900310108264100100002010000030605100000155</Clave>
+  <CodigoActividad>505001</CodigoActividad>
+  <NumeroConsecutivo>00100002010000030605</NumeroConsecutivo>
+  <FechaEmision>2019-08-31T13:44:04</FechaEmision>
+  <Emisor>
+    <Nombre>INVERSIONES CARIOCAS S.A.</Nombre>
+    <Identificacion>
+      <Tipo>02</Tipo>
+      <Numero>3101082641</Numero>
+    </Identificacion>
+    <Ubicacion>
+      <Provincia>1</Provincia>
+      <Canton>01</Canton>
+      <Distrito>04</Distrito>
+      <OtrasSenas>125 metrios sur de la cancha sintetica de Plaza Viquez</OtrasSenas>
+    </Ubicacion>
+    <Telefono>
+      <CodigoPais>506</CodigoPais>
+      <NumTelefono>22215170</NumTelefono>
+    </Telefono>
+    <CorreoElectronico>facturacion.cariocas@gmail.com</CorreoElectronico>
+  </Emisor>
+  <Receptor>
+    <Nombre>ANDREINA PORRAS CASTRO</Nombre>
+    <Identificacion>
+      <Tipo>01</Tipo>
+      <Numero>113720391</Numero>
+    </Identificacion>
+    <CorreoElectronico>diessamedica@gmail.com</CorreoElectronico>
+  </Receptor>
+  <CondicionVenta>01</CondicionVenta>
+  <MedioPago>01</MedioPago>
+  <DetalleServicio>
+    <LineaDetalle>
+      <NumeroLinea>1</NumeroLinea>
+      <CodigoComercial>
+        <Tipo>01</Tipo>
+        <Codigo>1</Codigo>
+      </CodigoComercial>
+      <Cantidad>16.420</Cantidad>
+      <UnidadMedida>L</UnidadMedida>
+      <UnidadMedidaComercial>Litros</UnidadMedidaComercial>
+      <Detalle>Plus 91</Detalle>
+      <PrecioUnitario>609.00000</PrecioUnitario>
+      <MontoTotal>10000.00000</MontoTotal>
+      <SubTotal>10000.00000</SubTotal>
+      <MontoTotalLinea>10000.00000</MontoTotalLinea>
+    </LineaDetalle>
+  </DetalleServicio>
+  <ResumenFactura>
+    <CodigoTipoMoneda>
+      <CodigoMoneda>CRC</CodigoMoneda>
+      <TipoCambio>0.00000</TipoCambio>
+    </CodigoTipoMoneda>
+    <TotalServGravados>0.00000</TotalServGravados>
+    <TotalServExentos>0.00000</TotalServExentos>
+    <TotalMercanciasGravadas>0.00000</TotalMercanciasGravadas>
+    <TotalMercanciasExentas>10000.00000</TotalMercanciasExentas>
+    <TotalGravado>0.00000</TotalGravado>
+    <TotalExento>10000.00000</TotalExento>
+    <TotalVenta>10000.00000</TotalVenta>
+    <TotalDescuentos>0.00000</TotalDescuentos>
+    <TotalVentaNeta>10000.00000</TotalVentaNeta>
+    <TotalImpuesto>0.00000</TotalImpuesto>
+    <TotalComprobante>10000.00000</TotalComprobante>
+  </ResumenFactura>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-71b6e2d3-5b11-45d7-87bd-7d064d839bb3"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-7a346e25-2a0e-4ff7-96cb-8790aa7438c0" URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>G7Gb8PxnY4XQe98n+0kKprPG3IqSqPlqSwbjGSepsH4=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-71b6e2d3-5b11-45d7-87bd-7d064d839bb3"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>A2Isjo2zvf8IVHZ9PZff0WgpTVo6E7PChxC/OZTZoaA=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-71b6e2d3-5b11-45d7-87bd-7d064d839bb3"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>F7Pvzsoy+97D10EhPnjcl7l1uSKfKXM9MnWe3d5qPu8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-71b6e2d3-5b11-45d7-87bd-7d064d839bb3">fsXFzetoUYf3oCE1HkdVrOxxfqUD9HIAhn+YuqrhLEsx880ruE4MI/TMXVxQfU/upINlPOFr6+PUHEpB5Wv6/2c80irJ8u4k1aYw66DTGdpVoanEXZd3PDDPhlkzm2QLBiL6n+SVnjD4Blvt+TfkmE+8Qa3fS/eMQlnVywpaxlkLGwy+CJy2TLzwTlZeihZRI+UqCxPZEFkWCgq7WtDsFSsQpWSGgFKjd9cLLbQcFQeZGdiOotPfuWzGvfitFokZ4mAlutHcWscYoL2S1aoKLLXeZ0zJCxvOEmZ3AGo1KfeMVRG8CJwsWamUtKJ050g/g6s2K2xWVU930ZRC+wV63w==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-71b6e2d3-5b11-45d7-87bd-7d064d839bb3"><ds:X509Data><ds:X509Certificate>MIIFJzCCAw+gAwIBAgIGAWgvFhIBMA0GCSqGSIb3DQEBCwUAMFoxCzAJBgNVBAYTAkNSMR8wHQYDVQQKDBZNSU5JU1RFUklPIERFIEhBQ0lFTkRBMQwwCgYDVQQLDANER1QxHDAaBgNVBAMME0NBIFBFUlNPTkEgSlVSSURJQ0EwHhcNMTkwMTA4MjAxMDAyWhcNMjEwMTA3MjAxMDAyWjCBgTEZMBcGA1UEBRMQQ1BKLTMtMTAxLTA4MjY0MTELMAkGA1UEBhMCQ1IxGTAXBgNVBAoMEFBFUlNPTkEgSlVSSURJQ0ExDDAKBgNVBAsMA0NQSjEuMCwGA1UEAwwlSU5WRVJTSU9ORVMgQ0FSSU9DQVMgU09DSUVEQUQgQU5PTklNQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIw8NQXIp6QsYqXqaH+jQaD4SdF1sknWtNgUUfgEsEQar8six/tPTSAMYskCm6EcOFeyNDikQ7CV9mJ7zO8vvucHJCFO9oGGky0Yr9jfKOZUA5vAv5Eba4znfKzaWu4ofYjZebAYbdgM9FwAW7D0PCWkxcizwBAXiqtSnID4FZqk+6o3R2KOha+K+gXlL9FdJ9IJ1IospJIur/acGZXTWliTV3SdkSlG8g4L4V/XgKavTF05BT9ODMCblZLpY9uuzg6zMEIy8lu3vNWxL+yoLhc2AZ6FJNAiRLrT8mFL+xDwMiORBu4H6Iqm40Qw0rHgZyljjWZyCH9thHgGKIPkJD0CAwEAAaOByjCBxzAfBgNVHSMEGDAWgBQ7bVf11nzpnhACIEHjvRrMz7NOlTAdBgNVHQ4EFgQU2IWet8MffTa9bodpjo8OGrisvikwCwYDVR0PBAQDAgbAMBMGA1UdJQQMMAoGCCsGAQUFBwMEMGMGCCsGAQUFBwEBBFcwVTBTBggrBgEFBQcwAoZHaHR0cHM6Ly9wa2kuY29tcHJvYmFudGVzZWxlY3Ryb25pY29zLmdvLmNyL3Byb2QvaW50ZXJtZWRpYXRlLXBqLXBlbS5jcnQwDQYJKoZIhvcNAQELBQADggIBAB9nSGmhdg/31JfpP6S0AVdJSuPaGmNLkrXNGnAUg6xMStBRr99saYbwF+FNXlebOeGgU3J2k3pwlZbMYsA95jgJ0YeESMyu/ZIGirf+eqOCNkieG20xgUkWXVfu/6wGssV8Uv6KLwWwHqblYvBmyn6tscNKuxKz4/KGeX5geOyHZs5HN9jEEYQsF7Ds6IylUqjz2t7Hj1zLIafi/1epWPD0NgbFDa4WkVkhgZC42kHLDwexm0+NMDvBLI4/hhAWA1emP9IAWV3rXF5tOWHdKUm7tErpbtdTS81yEuMdiV3JaSKZ5L4eUjKtCRb8MB4mHPaKjYYExmmOo5/OgQsLnsD6UtLVUbFuxDrpV0rAMEPXjTd2eSc+jt5XFbkCMdxllB6Y+2YydaQ2uq0A6GG0usvRZQmpJcoJEQEW/YZWaPsTd9ID0L23X8R4m/GozfjrTug9JZA6UPAW1elQoRh1Cbjli2wVqxAEebCTzFZtQevQwNXF82dLy66/wBzO/fX/afGIvq2IinsUqRA7+89QNkeh8YcfJDcFxdFTgh2BK40wxvKmbA4VwjnyCP/aVFHFdMSQveR5OZXgJJrIzQzBKFhw9a/JKn5ejs+57AoRjbDN0SaNAGR9lyx32RzpkBPciA6rJ2SIKjVNSTzYGxL87mulU0m8gzaeabZDaltOvC+x</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>jDw1BcinpCxipepof6NBoPhJ0XWySda02BRR+ASwRBqvyyLH+09NIAxiyQKboRw4V7I0OKRDsJX2YnvM7y++5wckIU72gYaTLRiv2N8o5lQDm8C/kRtrjOd8rNpa7ih9iNl5sBht2Az0XABbsPQ8JaTFyLPAEBeKq1KcgPgVmqT7qjdHYo6Fr4r6BeUv0V0n0gnUiiykki6v9pwZldNaWJNXdJ2RKUbyDgvhX9eApq9MXTkFP04MwJuVkulj267ODrMwQjLyW7e81bEv7KguFzYBnoUk0CJEutPyYUv7EPAyI5EG7gfoiqbjRDDSseBnKWONZnIIf22EeAYog+QkPQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-38aa25ac-d706-46b5-939b-32bd923e9d23"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-cc5b59ba-8667-4fdd-b136-62c4618f095c" Target="#Signature-71b6e2d3-5b11-45d7-87bd-7d064d839bb3"><xades:SignedProperties Id="SignedProperties-Signature-71b6e2d3-5b11-45d7-87bd-7d064d839bb3"><xades:SignedSignatureProperties><xades:SigningTime>2019-08-31T19:45:33+00:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>CGN8Jvpu18a5GmSYV4CN91Sk9oEH6EnIxSGYxfw5K9s=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=CA PERSONA JURIDICA, OU=DGT, O=MINISTERIO DE HACIENDA, C=CR</ds:X509IssuerName><ds:X509SerialNumber>1546978202113</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignaturePolicyIdentifier><xades:SignaturePolicyId><xades:SigPolicyId><xades:Identifier>https://tribunet.hacienda.go.cr/docs/esquemas/2016/v4.1/Resolucion_Comprobantes_Electronicos_DGT-R-48-2016.pdf</xades:Identifier><xades:Description /></xades:SigPolicyId><xades:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></xades:SigPolicyHash></xades:SignaturePolicyId></xades:SignaturePolicyIdentifier></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-7a346e25-2a0e-4ff7-96cb-8790aa7438c0"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></FacturaElectronica>
