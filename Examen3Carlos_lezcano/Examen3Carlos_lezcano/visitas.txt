@@ -1,0 +1,105 @@
+Nombre:carlos
+<br>
+Apellido:Robles
+<br>
+Fecha de Nacimineto:1999-08-22
+<br>
+Edad:20
+<br>
+Correo:carlos.lezcano988@gmail.com
+carro?:NO
+<br>
+Nombre:carlos
+<br>
+Apellido:Robles
+<br>
+Fecha de Nacimineto:1995-08-22
+<br>
+Edad:24
+<br>
+Correo:fsandi07@gmail.com
+carro?:SI
+<br>
+Nombre:carlos
+<br>
+Apellido:sss
+<br>
+Fecha de Nacimineto:1998-01-22
+<br>
+Edad:21
+<br>
+Correo:leonatro24@hotmail.com
+carro?:NO
+<br>
+Nombre:leonardo
+<br>
+Apellido:rodriguez
+<br>
+Fecha de Nacimineto:1987-11-24
+<br>
+Edad:31
+<br>
+Correo:leonatro24@hotmail.com
+<br>
+carro?:SI
+<br>
+Nombre:carlos
+<br>
+Apellido:lezcano
+<br>
+Fecha de Nacimineto:2001-08-24
+<br>
+Edad:18
+<br>
+Correo:leonatro24@hotmail.com
+<br>
+carro?:SI
+<br>
+Nombre:noelia
+<br>
+Apellido:Robles
+<br>
+Fecha de Nacimineto:1960-07-23
+<br>
+Fecha de Nacimineto:1999-08-24
+<br>
+Edad:20
+<br>
+Correo:fsandi07@gmail.com
+<br>
+carro?:NO
+<br>
+Nombre:carlos lezcano
+<br>
+Nombre:carlos lezcano
+<br>
+Apellido:sandi
+<br>
+Nombre:carlos lezcano
+<br>
+Nombre:leonardo
+<br>
+Nombre:rodolfo
+<br>
+Apellido:sandi
+<br>
+Nombre:carlos lezcano
+<br>
+Nombre:carlos lezcano
+<br>
+Nombre:roberto 
+<br>
+Nombre:carlos lezcano
+<br>
+Nombre:roberto 
+<br>
+Apellido:sandi
+<br>
+Nombre:roberto 
+<br>
+Apellido:sandi
+<br>
+Nombre:carlos lezcano
+<br>
+Nombre:roberto 
+<br>

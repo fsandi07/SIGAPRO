@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Controlador.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Controlador.pdb
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Modelo.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Modelo.pdb
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.pdb
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Controlador.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Controlador.pdb
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Modelo.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\bin\Debug\Examen3.Modelo.pdb
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.csproj.CopyComplete
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3.Controlador\obj\Debug\Examen3.Controlador.pdb

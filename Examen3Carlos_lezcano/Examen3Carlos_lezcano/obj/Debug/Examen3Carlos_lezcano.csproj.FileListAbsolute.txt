@@ -1,0 +1,120 @@
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3Carlos_lezcano.dll.config
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3Carlos_lezcano.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3Carlos_lezcano.pdb
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.pdb
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Controlador.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Controlador.pdb
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Modelo.dll
+C:\Users\Usuario\Desktop\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Modelo.pdb
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3Carlos_lezcano.dll.config
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3Carlos_lezcano.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3Carlos_lezcano.pdb
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Controlador.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Modelo.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Controlador.pdb
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\bin\Examen3.Modelo.pdb
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.csproj.CopyComplete
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.dll
+C:\Users\Usuario\Desktop\programacion 6\Examen3Carlos_lezcano\Examen3Carlos_lezcano\obj\Debug\Examen3Carlos_lezcano.pdb
