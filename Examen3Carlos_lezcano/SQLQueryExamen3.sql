@@ -127,11 +127,4 @@ end
 
 select * from Extraccion_DE_Datos
 
-
-
-
-select * from Encuesta
-
-
-
-	delete  from Extraccion_DE_Datos
+delete  from Extraccion_DE_Datos
